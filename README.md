@@ -1,3 +1,19 @@
+<p align="center"><a href="https://www.linkedin.com/in/hsuan-dai-hsia-059869165/"><img width="80%" alt="Hello, I'm Olivia. I love data!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+I'm a project manager and passionate data-driven! 
+
+**About me**
+
+**Project**
+
+
+
+🔭 I’m currently working on ...
+
+📫 How to reach me: ...
+
 ## Hi there 👋
 
 <!--
