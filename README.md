@@ -4,10 +4,6 @@
 
 I'm a project manager and passionate data-driven! 
 
-**About me**
-
-**Project**
-
 <h3 align="left">Data Science Project:</h3>
 <table>
   <tr>
@@ -23,15 +19,13 @@ I'm a project manager and passionate data-driven!
     <td><span>Python</span></td>
     <td><ul>
       <li> EDA
-        <li> Machine learning
       <li> Machine learning
-        
-      </span></td>
   </tr>
       
   <tr>
     <td><a href = "https://www.kaggle.com/code/olivia562100/banking-data-analysis-for-marketing"><span><b>Banking data analysis for marketing</b></span></a></td>
     <td><span style = "font-size: '10px';">Leverage customer information and marketing activity data from direct campaigns by a Portuguese banking institution to optimize marketing strategies for banking products efficiently.</span></td>
+    <td><span>SQL</span></td>
     <td><span>Python</span></td>
     <td><ul>
       <li> EDA
