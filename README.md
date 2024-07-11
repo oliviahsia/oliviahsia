@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/hsuan-dai-hsia-059869165/"><img width="80%" alt="Hello, I'm Olivia. I love data!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/hsuan-dai-hsia-059869165/"><img width="80%" alt="Hello, I'm Olivia. I love data!" src="image/cut and PASTE.png" /></a></p>
 
 <br />
 
