@@ -35,14 +35,32 @@ I'm a project manager and passionate data-driven!
 
 <h3 align="left">Tableau Project:</h3>
 <table>
-
+  <tr>
+    <td><b>Topic</td>
+    <td width = 400px;><b>Description</td>
+    <td><b> Display </td>
+  </tr>
+  <tr>
+    <td><a href = "https://www.kaggle.com/code/olivia562100/predicting-high-selling-products"><span><b>Predicting High-Selling Products</b></span></a></td>
+    <td><span style = "font-size: '10px';">In the e-commerce sector, identifying potential star products is crucial for achieving high sales. Developing a predictive model by analyzing customer behavior data aims to enhance accuracy in this process.</span></td>
+      
 </table>
+
+## About me 👩🏻‍💻
+
+* Cross-industry project management experience (2 years in e-commerce, 3 years in traditional textile manufacturing)
+* Strong adaptability and rich cross-cultural work and study experience 🇮🇪🇯🇴🇺🇸
+
+📈 Data analysis/wrangling using Python/SQL 
+📊 Data visualization with Tableau
+✔️ Work in a team with agile methodology 
+
 
 🔭 I’m currently working on ...
 
 📫 How to reach me: ...
 
-## Hi there 👋
+
 
 <!--
 **oliviahsia/oliviahsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
