@@ -2,9 +2,18 @@
 
 <br />
 
-I'm a project manager and passionate data-driven! 
+## About me 👩🏻‍💻
 
-<h3 align="left">Data Science Project:</h3>
+* Cross-industry project management experience (2 years in e-commerce, 3 years in traditional textile manufacturing)
+* Strong adaptability and rich cross-cultural work and study experience 🇮🇪🇯🇴🇺🇸
+
+📈 Data analysis/wrangling using Python/SQL <br>
+📊 Data visualization with Tableau <br>
+✔️ Work in a team with agile methodology
+
+
+### Data Science Project 💻
+
 <table>
   <tr>
     <td><b>Topic</td>
@@ -33,12 +42,14 @@ I'm a project manager and passionate data-driven!
   </tr>
 </table>
 
-### Tableau Project:
+### Tableau Project 📊
 
-<h3 align="left">Tableau Dashboard: Banking Marketing Performance</h3>
+<h3 align="left">Banking Marketing Performance</h3>
 
 <div class='tableauPlaceholder' id='viz1720894819182' style='position: relative'>
-  <noscript><a href='#'><img alt='Final result' src='https://public.tableau.com/static/images/Ba/BankingMarketingPerformance/Finalresult/1_rss.png' style='border: none' /></a></noscript>
+  <a href='https://public.tableau.com/app/profile/hsuan.dai.hsia/viz/BankingMarketingPerformance/Finalresult' target='_blank'>
+    <img alt='Final result' src='https://public.tableau.com/static/images/Ba/BankingMarketingPerformance/Finalresult/1_rss.png' style='border: none' />
+  </a>
   <object class='tableauViz' style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
     <param name='embed_code_version' value='3' />
@@ -56,52 +67,4 @@ I'm a project manager and passionate data-driven!
   </object>
 </div>
 
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1720894819182');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.width='1100px';
-    vizElement.style.height='677px';
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.width='1100px';
-    vizElement.style.height='677px';
-  } else {
-    vizElement.style.width='100%';
-    vizElement.style.height='1577px';
-  }
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
 
-
-## About me 👩🏻‍💻
-
-* Cross-industry project management experience (2 years in e-commerce, 3 years in traditional textile manufacturing)
-* Strong adaptability and rich cross-cultural work and study experience 🇮🇪🇯🇴🇺🇸
-
-📈 Data analysis/wrangling using Python/SQL 
-📊 Data visualization with Tableau
-✔️ Work in a team with agile methodology 
-
-
-🔭 I’m currently working on ...
-
-📫 How to reach me: ...
-
-
-
-<!--
-**oliviahsia/oliviahsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
