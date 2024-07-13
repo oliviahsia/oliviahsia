@@ -44,7 +44,7 @@
 
 ### Tableau Project 📊
 
-<h3 align="left">Banking Marketing Performance</h3>
+<h3 align="left">📌 Banking Marketing Performance</h3>
 
 <div class='tableauPlaceholder' id='viz1720894819182' style='position: relative'>
   <a href='https://public.tableau.com/app/profile/hsuan.dai.hsia/viz/BankingMarketingPerformance/Finalresult' target='_blank'>
